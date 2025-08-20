@@ -45,12 +45,10 @@ Features
 
 🧩 Optional Tailwind styling (already used in components).
 
-Screenshots
-
- (glowadvisor1.png)
-  (glowadvisor2.png)
-   (glowadvisor3.png)
-
+<h2>Screenshots</h2>
+<img src="public/glowadvisor1.png" width="900" alt="Home" />
+<img src="public/glowadvisor2.png" width="900" alt="Chat" />
+<img src="public/glowadvisor3.png" width="900" alt="API Docs" />
 Tech Stack
 
 Frontend: React 18, Vite, react-markdown, remark-gfm, lucide-react, Tailwind (optional)
